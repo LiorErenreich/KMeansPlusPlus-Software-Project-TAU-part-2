@@ -83,4 +83,9 @@ The script performs the following steps:
 4. Plots the average dispersion values against the corresponding K values.
 5. Identifies the "elbow point" on the graph, indicating the optimal K value.
 
+
+<div align="center">
+   <img src= "https://www.oreilly.com/api/v2/epubs/9781788295758/files/assets/995b8b58-06f1-4884-a2a1-f3648428e947.png">
+</div>
+   
 Please refer to the assignment instructions, individual file contents, and the explanations in this README file for more detailed information on how to use and further extend this project.
