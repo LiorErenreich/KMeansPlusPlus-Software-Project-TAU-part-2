@@ -24,7 +24,7 @@ The project directory contains the following files:
 5. `elbow_method.py`: This Python script demonstrates the usage of the scikit-learn library to perform k-means clustering on the Iris dataset. It uses the elbow method to select the optimal number of clusters and generates a plot showing the average dispersion for different values of K.
 
 ## Setup and Running
-To set up and run the KMeansPP-Software-Project-TAU project, follow these steps:
+To set up and run the KMeansPlusPlus-Software-Project-TAU-part-2 project, follow these steps:
 
 1. Ensure that you have Python 3.x installed on your system.
 
