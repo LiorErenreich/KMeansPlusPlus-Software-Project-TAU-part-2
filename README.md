@@ -3,7 +3,7 @@ K-Means++ Project - Software Project at TAU (0368-2161)
 
 This project, developed as part of the Software Project course at Tel Aviv University by [Moria Nachmany](https://github.com/MoriaNachmany) and [Lior Erenreich](https://github.com/LiorErenreich), implements the k-means clustering algorithm using the k-means++ initialization method. It provides both Python and C implementations for efficient computation of large datasets.
 
-For part 1 of this project [visit here](https://github.com/LiorErenreich/KMeans-Software-Project-TAU-part-1).
+**For part 1 of this project [visit here](https://github.com/LiorErenreich/KMeans-Software-Project-TAU-part-1).**
 
 ## Introduction
 K-means clustering is a popular unsupervised learning algorithm used for partitioning data into K distinct clusters based on their feature similarity. The k-means++ initialization method is an enhancement to the original k-means algorithm that improves the quality of the initial centroids' selection, leading to better clustering results.
@@ -23,15 +23,6 @@ The project directory contains the following files:
 
 5. `elbow_method.py`: This Python script demonstrates the usage of the scikit-learn library to perform k-means clustering on the Iris dataset. It uses the elbow method to select the optimal number of clusters and generates a plot showing the average dispersion for different values of K.
 
-# KMeansPP-Software-Project-TAU
-
-This project, developed as part of the Software Project course at Tel Aviv University, implements the k-means clustering algorithm using the k-means++ initialization method. It provides both Python and C implementations for efficient computation of large datasets.
-
-## Introduction
-K-means clustering is a popular unsupervised learning algorithm used for partitioning data into K distinct clusters based on their feature similarity. The k-means++ initialization method is an enhancement to the original k-means algorithm that improves the quality of the initial centroids' selection, leading to better clustering results.
-
-This project aims to provide a flexible and efficient implementation of the k-means++ algorithm using both Python and C programming languages. It includes a Python script for executing the algorithm and a C code file for the core implementation.
-
 ## Setup and Running
 To set up and run the KMeansPP-Software-Project-TAU project, follow these steps:
 
@@ -48,7 +39,6 @@ To set up and run the KMeansPP-Software-Project-TAU project, follow these steps:
    ```
    cd KMeansPlusPlus-Software-Project-TAU-part-2
    ```
-
 
 4. Execute the `kmeans_pp.py` script with the desired command-line arguments to run the k-means++ algorithm. For example:
 
